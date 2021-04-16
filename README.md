@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Abdul Khan
-- 👀 I’m interested in everything
 
 <!---
 abdulskhan47/abdulskhan47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
